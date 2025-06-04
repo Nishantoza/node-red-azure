@@ -1,0 +1,11 @@
+{
+  "name": "node-red-azure",
+  "version": "1.0.0",
+  "description": "Node-RED deployed to Azure",
+  "scripts": {
+    "start": "node red.js"
+  },
+  "dependencies": {
+    "node-red": "^3.1.0"
+  }
+}
